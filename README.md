@@ -6,6 +6,26 @@ Built using **HTML, CSS, and JavaScript**, this app lets you **add, store, and m
 
 ---
 
+## 📑 Table of Contents
+- [🌍 Live Demo](#🌍-live-demo)
+- [🧩 Features](#🧩-features)
+- [🛠️ Tech Stack](#🛠️-tech-stack)
+- [🏆 Hacktoberfest 2025](#🏆-hacktoberfest-2025)
+  - [🧃 Ways to Contribute](#🧃-ways-to-contribute)
+- [🚀 Getting Started](#🚀-getting-started)
+  - [1️⃣ Fork this repo](#1️⃣-fork-this-repo)
+  - [2️⃣ Clone your fork](#2️⃣-clone-your-fork)
+  - [3️⃣ Open the project](#3️⃣-open-the-project)
+  - [4️⃣ Make your changes](#4️⃣-make-your-changes)
+  - [5️⃣ Commit & push](#5️⃣-commit--push)
+  - [6️⃣ Create a Pull Request](#6️⃣-create-a-pull-request)
+- [💡 Future Ideas](#💡-future-ideas)
+- [📄 License](#📄-license)
+- [❤️ Acknowledgements](#❤️-acknowledgements)
+- [🧑‍💻 Contributors](#🧑‍💻-contributors)
+
+---
+
 ## 🌍 Live Demo
 👉 *https://pixel-study.vercel.app/*
 
