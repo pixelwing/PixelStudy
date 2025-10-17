@@ -1,5 +1,24 @@
 # 🤝 Contributing to Pixel Study
 
+
+## Table of Contents
+- [Contribution Ideas](#💡-contribution-ideas)
+- [How to Contribute](#🚀-how-to-contribute)
+  - [Fork the Repository](#1️⃣-fork-the-repository)
+  - [Clone Your Fork](#2️⃣-clone-your-fork)
+  - [Open the Project](#3️⃣-open-the-project)
+  - [Create a New Branch](#4️⃣-create-a-new-branch)
+  - [Make Your Changes](#🧠-make-your-changes)
+  - [Contribution Guidelines](#🧩-contribution-guidelines)
+  - [Pull Request Process](#pull-request-process)
+  - [Push to your fork](#5️⃣-push-to-your-fork)
+- [Community and Behavior](#💬-community-and-behavior)
+- [Code of Conduct](#🧠-code-of-conduct)
+- [Need Help?](#💡-need-help)
+- [Pro Tip](#⭐-pro-tip)
+
+---
+
 Hey there! 👋  
 Thanks for showing interest in contributing to **Pixel Study** — a simple, open-source web app built with HTML, CSS, and JavaScript to help students organize their study materials.
 
