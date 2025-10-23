@@ -4,7 +4,18 @@ Hey there! 👋
 Thanks for showing interest in contributing to **Pixel Study** — a simple, open-source web app built with HTML, CSS, and JavaScript to help students organize their study materials.
 
 We welcome **all kinds of contributions** — from fixing typos and improving documentation to adding new features or refining the UI.  
-Let’s make this project awesome together 💪
+Let's make this project awesome together 💪
+
+## 📑 Table of Contents
+- [Contribution Ideas](#-contribution-ideas)
+- [How to Contribute](#-how-to-contribute)
+  - [1. Fork the Repository](#1️⃣-fork-the-repository)
+  - [2. Clone Your Fork](#2️⃣-clone-your-fork)
+  - [3. Open the Project](#3️⃣-open-the-project)
+  - [4. Create a New Branch](#4️⃣-create-a-new-branch)
+  - [5. Push to Your Fork](#5️⃣-push-to-your-fork)
+- [Contribution Guidelines](#-contribution-guidelines)
+- [Pull Request Process](#pull-request-process)
 
 ---
 
